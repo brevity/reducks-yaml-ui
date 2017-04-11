@@ -1,0 +1,9 @@
+{
+  "name": "reducks-yaml-ui",
+  "version": "1.0.0",
+  "description": "A generic browser-based ui to facilitate api development/documentation",
+  "main": "index.js",
+  "repository": "git@github.com:brevity/reducks-yaml-ui.git",
+  "author": "andrew.toelle@gmail.com",
+  "license": "MIT"
+}
